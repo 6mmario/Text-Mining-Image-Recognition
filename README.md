@@ -24,12 +24,22 @@ El Laboratorio 1 aborda una serie de problemas centrados en la manipulación y t
 1. **Problema 1:** 
    Desarrollar una función que recibe una imagen y un parámetro entero, activando canales específicos de color (rojo, verde, azul) según el valor del parámetro. Esta función permite transformar una imagen en escala de grises a varias combinaciones de canales de color.
    1. [opt-1](Lab1_24006981/imagen_modificada_img1.jpg)
+   2. [opt-2](Lab1_24006981/imagen_modificada_img2.jpg)
+   3. [opt-3](Lab1_24006981/imagen_modificada_img3.jpg)
+   4. [opt-10](Lab1_24006981/imagen_modificada_img10.jpg)
+   5. [opt-20](Lab1_24006981/imagen_modificada_img20.jpg)
+   6. [opt-30](Lab1_24006981/imagen_modificada_img30.jpg)
 
 2. **Problema 2:**
    Implementar una función para reconstruir imágenes en color a partir de conjuntos de imágenes en escala de grises representadas en 3D. Este problema requiere trabajar con un conjunto de imágenes proporcionado en un archivo zip.
+   1. [imagen1](Lab1_24006981/imagen1_color.jpg)
+   2. [imagen2](Lab1_24006981/imagen2_color.jpg)
+   3. [perro](Lab1_24006981/perro1_color.jpg)
 
 3. **Problema 3:**
    Crear una función que descompone una imagen en escala de grises en tres imágenes de salida, considerando las tres dimensiones. Además, se solicita demostrar la funcionalidad de la función con imágenes de prueba.
+   1. [imagen1](Lab1_24006981/imagen1)
+   2. [imagen2](Lab1_24006981/imagen2)
 
 4. **Problema 4:**
    Diseñar una función para calcular y mostrar el histograma de cada canal de color y de la imagen en escala de grises. El histograma debe incluir una línea vertical indicando la media de la distribución de los valores de color.
@@ -40,4 +50,3 @@ El Laboratorio 1 aborda una serie de problemas centrados en la manipulación y t
 6. **Problema 6:**
    Investigar sobre el espacio de color HSV y cómo se mapean colores a dicho espacio. Incluir los hallazgos y ejemplos prácticos en un notebook de Jupyter para un análisis detallado.
 
-Este laboratorio no solo refuerza conceptos teóricos de procesamiento de imágenes, sino que también proporciona una base práctica para la aplicación de técnicas de análisis y manipulación de imágenes en diferentes formatos y representaciones de color.
