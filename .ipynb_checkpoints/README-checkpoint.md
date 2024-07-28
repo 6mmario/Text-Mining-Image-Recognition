@@ -23,7 +23,7 @@ El Laboratorio 1 aborda una serie de problemas centrados en la manipulación y t
 
 1. **Problema 1:** 
    Desarrollar una función que recibe una imagen y un parámetro entero, activando canales específicos de color (rojo, verde, azul) según el valor del parámetro. Esta función permite transformar una imagen en escala de grises a varias combinaciones de canales de color.
-   1. [opt-1](imagen_modificada_img1.jpg)
+   1. [opt-1](Lab1_24006981/imagen_modificada_img1.jpg)
 
 2. **Problema 2:**
    Implementar una función para reconstruir imágenes en color a partir de conjuntos de imágenes en escala de grises representadas en 3D. Este problema requiere trabajar con un conjunto de imágenes proporcionado en un archivo zip.
